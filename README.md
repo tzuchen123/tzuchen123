@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Tzuchen</h1>
-<h3 align="center">A seasoned backend engineer with over three years of experience, specializing in building efficient systems, currently looking for a fun and challenging job.💪</h3>
+<h1 align="center">Hi there 👋, I'm Tzuchen</h1>
+<h3 align="center">A seasoned backend engineer with over three years of experience, specializing in building efficient systems.</h3>
+<h3 align="center">I currently looking for a fun and challenging new job.💪</h3>
 
 <p align="left">
 </p>
