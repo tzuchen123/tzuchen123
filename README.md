@@ -1,26 +1,44 @@
-<h1 align="center">Hi there 👋, I'm Tzuchen</h1>
-<h3 align="center">A seasoned backend engineer with over three years of experience, specializing in building efficient systems.</h3>
-<h3 align="center">I currently looking for a fun and challenging new job.💪</h3>
+# Hi, I'm Tzuchen 👋
 
-<p align="left">
-</p>
+🎯 I'm a backend engineer with over 3 years of experience building scalable web services using **Node.js** and **PHP (Laravel)**.  
+I focus on **API design**, **system performance**, and **deployment automation**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 What I Do
 
-<!--
-## Hi there 👋
-**tzuchen123/tzuchen123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧩 **Backend Development** — Experienced in designing and optimizing RESTful APIs, database schema, and asynchronous job handling.
+- 🛠 **DevOps & Deployment** — Familiar with CI/CD (GitHub Actions), AWS EC2 / Lambda, Docker, and Redis.
+- ⚙️ **System Refactoring** — Strong in debugging legacy code, improving performance with Eager Loading & query optimization.
+- 🎮 **Side Projects** — I build things I want to use, from **price trackers** to **real-time two-player platform** using Socket.IO.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Selected Projects
+
+### 🔹 [CheapSing](https://github.com/tzuchen123/CheapSing)
+> 台灣 KTV 比價工具，快速查詢錢櫃與好樂迪包廂價格
+- 技術棧：Node.js, Express
+- 特點：爬蟲抓取價格表格、自動轉成 JSON、支援多品牌切換
+
+### 🔹 Real-time Game Server (WIP)
+> 基於 Socket.IO 的即時對戰平台
+- 技術棧：Node.js, Express, Socket.IO
+- 功能設計：房間管理、配對邏輯、實時狀態同步
+
+---
+
+## 📚 Learning / Interests
+
+- TypeScript & Clean Architecture
+- System Design 
+- Web3 & Smart Contract basics 
+
+---
+
+## 💬 Get in Touch
+
+- 📧 tzuchen123@gmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/tzu-chen-chuang-a156ab13b)  
+- 💼 [104](https://pda.104.com.tw/profile/share/a5i4TmhgmKCKwjIvf9f6hPeavzHkRdbF)  
+
