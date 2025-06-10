@@ -18,18 +18,24 @@ I focus on **API design**, **system performance**, and **deployment automation**
 
 ### [CheapSing](https://github.com/tzuchen123/CheapSing)
 > 台灣 KTV 比價工具，快速查詢錢櫃與好樂迪價格
-- 技術棧：Node.js, Express
-- 特點：爬蟲抓取價格表格、自動轉成 JSON、支援多品牌切換
+> 技術棧：
+  - 前端：純 HTML + 原生 JavaScript（無框架）
+  - 後端：Node.js + Express
+> 特點：爬蟲抓取價格表格、自動轉成 JSON、支援多品牌切換
 
 ### [smell-Fishy](https://github.com/tzuchen123/smell-Fishy)
 > 基於 Socket.IO 的即時對戰平台
-- 技術棧：Node.js, Express, Socket.IO
-- 功能設計：房間管理、配對邏輯、實時狀態同步
+> 技術棧：
+  - 前端：Vue 3、Vite、Vue Router
+  - 後端：Node.js、Express.js、Socket.IO
+>  功能設計：房間管理、配對邏輯、實時狀態同步
 
 ### [PriceDropAlert](https://github.com/tzuchen123/PriceDropAlert)
 > 使用者可透過 LINE Bot 發送指令來追蹤商品價格
-- 技術棧：Node.js, Express, SQLite3, MongoDB, Redis, LINE Messaging API
-- 功能設計：商品追蹤、比對歷史最低價
+> 技術棧：
+  - 前端：Line 官方帳號
+  - 後端：Node.js、Express.js、Socket.IO、MongoDB、SQLite3、Redis、爬蟲、LINE Message API
+> 功能設計：商品追蹤、比對歷史最低價
 
 ---
 
