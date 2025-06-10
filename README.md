@@ -16,27 +16,51 @@ I focus on **API design**, **system performance**, and **deployment automation**
 
 ## Selected Projects
 
+---
+
 ### [CheapSing](https://github.com/tzuchen123/CheapSing)
+
 > 台灣 KTV 比價工具，快速查詢錢櫃與好樂迪價格
-> 技術棧：
-  - 前端：純 HTML + 原生 JavaScript（無框架）
-  - 後端：Node.js + Express
-> 特點：爬蟲抓取價格表格、自動轉成 JSON、支援多品牌切換
+
+**技術棧：**  
+- 前端：純 HTML + 原生 JavaScript（無框架）  
+- 後端：Node.js + Express
+
+**專案特點：**  
+- 使用爬蟲自動抓取錢櫃與好樂迪價格表格  
+- 自動轉換成 JSON 資料格式  
+- 支援多品牌切換與前端即時查詢功能
+
+---
 
 ### [smell-Fishy](https://github.com/tzuchen123/smell-Fishy)
+
 > 基於 Socket.IO 的即時對戰平台
-> 技術棧：
-  - 前端：Vue 3、Vite、Vue Router
-  - 後端：Node.js、Express.js、Socket.IO
->  功能設計：房間管理、配對邏輯、實時狀態同步
+
+**技術棧：**  
+- 前端：Vue 3、Vite、Vue Router  
+- 後端：Node.js、Express.js、Socket.IO
+
+**功能設計：**  
+- 房間管理系統（可自動或手動建立房間）  
+- 玩家即時配對與斷線重連處理  
+- 遊戲狀態透過 Socket.IO 同步雙方畫面
+
+---
 
 ### [PriceDropAlert](https://github.com/tzuchen123/PriceDropAlert)
-> 使用者可透過 LINE Bot 發送指令來追蹤商品價格
-> 技術棧：
-  - 前端：Line 官方帳號
-  - 後端：Node.js、Express.js、Socket.IO、MongoDB、SQLite3、Redis、爬蟲、LINE Message API
-> 功能設計：商品追蹤、比對歷史最低價
 
+> 使用者可透過 LINE Bot 發送指令來追蹤商品價格
+
+**技術棧：**  
+- 前端：LINE 官方帳號整合  
+- 後端：Node.js、Express.js、Socket.IO、MongoDB、SQLite3、Redis、爬蟲模組、LINE Message API
+
+**功能設計：**  
+- 商品價格追蹤與比對歷史最低價  
+- 後台排程比價通知與 Redis 快取處理  
+- LINE Bot 介面支援多種指令查詢與推播
+  
 ---
 
 ## Learning / Interests
