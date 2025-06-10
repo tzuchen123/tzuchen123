@@ -1,5 +1,7 @@
 # Hi, I'm Tzuchen 👋
 
+我是具有三年以上經驗的後端工程師，專長於使用 Node.js 與 PHP（Laravel）打造可擴展的網路服務，專注於 API 設計、系統效能優化與部署自動化。
+
 I'm a backend engineer with over 3 years of experience building scalable web services using **Node.js** and **PHP (Laravel)**.  
 I focus on **API design**, **system performance**, and **deployment automation**.
 
@@ -7,6 +9,11 @@ I focus on **API design**, **system performance**, and **deployment automation**
 
 ## What I Do
 
+- **後端開發** — 擅長設計與優化 RESTful API、資料庫結構建模與非同步任務處理。
+- **DevOps 與部署** — 熟悉 CI/CD（GitHub Actions）、AWS EC2 / Lambda、Docker 與 Redis。
+- **系統重構** — 擅長除錯舊有系統，與查詢優化提升效能。
+- **Side Projects** — 喜歡打造自己會用的工具，從商品價格追蹤器到使用 Socket.IO 製作的即時雙人遊戲平台。
+  
 - **Backend Development** — Experienced in designing and optimizing RESTful APIs, database schema, and asynchronous job handling.
 - **DevOps & Deployment** — Familiar with CI/CD (GitHub Actions), AWS EC2 / Lambda, Docker, and Redis.
 - **System Refactoring** — Strong in debugging legacy code, improving performance with Eager Loading & query optimization.
@@ -15,8 +22,6 @@ I focus on **API design**, **system performance**, and **deployment automation**
 ---
 
 ## Selected Projects
-
----
 
 ### [CheapSing](https://github.com/tzuchen123/CheapSing)
 
